@@ -1,7 +1,7 @@
 # NBA-project
 
 ## NBA Stats GUI
-Designed a GUI for NBA player statistics using Python and the nba-api library. The application presents comprehensive player data and game logs in a clean, intuitive design inspired by leading sport platforms. The tool provides advanced metrics and insights tailored for making improved betting decisions. 
+Designed a GUI for NBA player statistics and game logs. Inspired by the layouts of sports news platforms like ESPN and Basketball-Reference. Powered by Python and the nba-api library, the interface incorporates user-defined features tailored for sports betting analysis, offering unique insights beyond traditional stats in a user-friendly interface.
 
 ## NBA Scoring Predication Models
 Implemented Random Forest and Gradient Boosting regression models using scikit-learn to predict points scored by NBA players. The workflow involves two key steps:
